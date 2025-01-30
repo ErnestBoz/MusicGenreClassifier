@@ -11,7 +11,7 @@ A machine learning project that classifies music tracks into different genres us
 ### Setup
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ErnestBoz/Music-genre-classifier.git
+   git clone https://github.com/ErnestBoz/MusicGenreClassifier.git
    cd music-genre-classifier
    ```
    
